@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Shatabdee Talukder</h1>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=3500&pause=1200&color=00FF9D&center=true&vCenter=true&width=720&lines=PHP+Developer+%7C+Full+Stack+Enthusiast;Laravel+%26+Tailwind+CSS;Creating+Scalable+Web+Applications;Passionate+about+Clean+Code;Based+in+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shatabdee;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+Tailwind;From+Bangladesh)](https://git.io/typing-svg)
 </div>
 
 ---
